@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomPageWebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <availability>online</availability>
+    <description>Release Note Self-Service to query Component, Backlog Group, Versions and Products release in Version1 Integration.</description>
+    <displayType>link</displayType>
+    <encodingKey>UTF-8</encodingKey>
+    <linkType>url</linkType>
+    <masterLabel>Release Notes</masterLabel>
+    <openType>replace</openType>
+    <protected>false</protected>
+    <url>https://na35.salesforce.com/apex/ReleaseDynoQuery</url>
+</CustomPageWebLink>
